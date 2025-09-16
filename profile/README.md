@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://biraru.org/img/social_card.png">
+  <img src="https://github.com/BiraruStudios/.github/blob/main/profile/social_card.png">
 </div>
